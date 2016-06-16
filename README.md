@@ -1,6 +1,6 @@
 # BookmarkServices
-restapi service to handle my bookmarks
-
+restapi service to handle my bookmarks developed using springs and hibernates
+ 
 Creating tables in mysql
 
 create table bookmark_favourites (
