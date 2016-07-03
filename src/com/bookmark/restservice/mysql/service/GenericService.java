@@ -15,11 +15,6 @@ import org.springframework.dao.DataAccessException;
  * <p>Extend this interface if you want typesafe (no casting necessary) managers
  * for your domain objects.
  *
- * @author praveen kumar
-
- * @version 1.0
- * @copyright Propritery of MAXXPRISM
- *
  * @param <T> a type variable
  * @param <PK> the primary key for that type
  */

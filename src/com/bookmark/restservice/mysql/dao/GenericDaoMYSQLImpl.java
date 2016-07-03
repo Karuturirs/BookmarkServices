@@ -30,10 +30,6 @@ import org.springframework.util.Assert;
  *      &lt;/bean&gt;
  * </pre>
  *
- * @author praveen kumar
- 
- * @version 1.0
- * @copyright Propritery of MAXXPRISM
  * @param <T> a type variable
  * @param <PK> the primary key for that type
  *

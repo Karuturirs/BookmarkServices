@@ -15,7 +15,6 @@ import org.springframework.dao.DataAccessException;
  * <p>Extend this interface if you want typesafe (no casting necessary) DAO's for your
  * domain objects.
  *
- * @author praveen kumar
  * @param <T> a type variable
  * @param <PK> the primary key for that type
  */

@@ -25,7 +25,6 @@ import com.bookmark.restservice.mysql.dao.GenericDao;
  *     &lt;/bean&gt;
  * </pre>
  *
- * @author praveen kumar
  * @param <T> a type variable
  * @param <PK> the primary key for that type
  */
